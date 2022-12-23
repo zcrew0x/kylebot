@@ -1,23 +1,14 @@
 <h1>Kylebot</h1>
 <h2>Discord ddos bot v1.2 | Kyle Tran</h2>
 <h1>Install For Windows<h1>
-<h2><i>Install Python</i></h2>
-<h4>Download Link:</h4>
-```
-https://www.python.org/downloads/
-```
-<h2><i>Install Nodejs</i></h2>
-<h4>Download Link:</h4>
-```
-https://nodejs.org/en/download/
-```
-<h2><i>Install Golang</i></h2>
-<h4>Download Link:</h4>
-```
-https://go.dev/dl/
-```
-<h1>Install For Linux<h1>
-<h2><i>Command:</i></h2>
+<p><i>Install Python</i></p>
+<p>Download Link: https://www.python.org/downloads/</p>
+<p><i>Install Nodejs</i></p>
+<p>Download Link: https://nodejs.org/en/download/</p>
+</p><i>Install Golang</i></p>
+<p>Download Link: https://go.dev/dl/</p>
+<p>Install For Linux<p>
+<p><i>Command:</i></p>
 ```
 apt-get install golang -y
 apt-get install python3 -y
@@ -39,18 +30,15 @@ npm i cluster
 npm i cloudflare-bypasser
 ```
 <h1>About bot</h1>
-<h2><i>Author: Kyle Tran</i></h2>
-<h2><i>Version: 1.2</i></h2>
-<h2><i>Language: Python, NodeJS, Golang</i></h2>
-<h2><i>License: GNU General Public License v3.0</i></h2>
+<p><i>Author: Kyle Tran</i></p>
+<p><i>Version: 1.2</i></p>
+<p><i>Language: Python, NodeJS, Golang</i></p>
+<p><i>License: GNU General Public License v3.0</i></p>
 <h1>Preview</h1>
 <img src="preview.png" alt="">
 <h1>Contact</h1>
-<h2><i>Email: contact@tranbaokha.com</i></h2>
-<h2><i>Discord: KyleTran#0206</i></h2>
-<h2><i>Telegram: @kyletran1901</i></h2>
-<h2><i>Discord server</i></h2>
-```
-https://discord.gg/wrFgrU92nb
-```
+<p><i>Email: contact@tranbaokha.com</i></p>
+<p><i>Discord: KyleTran#0206</i></p>
+<p><i>Telegram: @kyletran1901</i></p>
+<p><i>Discord server: https://discord.gg/wrFgrU92nb</i></p>
 
