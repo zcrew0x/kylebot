@@ -32,7 +32,7 @@
   - CLOUDFLARE
   - UAM-BYPASS
   - SLOW
-- New method will be updated soon...
+- New methods will be updated soon...
 ### Installation
 - Installation for Windows
 - Install Python, Nodejs, Golang
