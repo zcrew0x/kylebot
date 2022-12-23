@@ -78,6 +78,7 @@
 <p><li>License: GNU General Public License v3.0</li></p>
 <h1>Preview</h1>
 <p align="center"><img src="preview.png" alt="Preview"></p>
+<p align="center"><img src="preview2.png" alt="Preview"></p>
 <h1>Contact</h1>
 <p><li>Email: contact@tranbaokha.com</li></p>
 <p><li>Discord: KyleTran#0206</li></p>
