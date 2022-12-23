@@ -22,6 +22,22 @@
 
 <b>This Tool is made for educational purposes only</b>. Do not attempt to violate the law with anything contained here.!
 </i>
+<h1>About bot</h1>
+<p><li>Author: Kyle Tran</li></p>
+<p><li>Version: 1.2</li></p>
+<p><li>Language: Python, NodeJS, Golang</li></p>
+<p><li>License: GNU General Public License v3.0</li></p>
+### Features
+
+- All Methods
+  - HTTP-FLOOD
+  - HTTP-RAW
+  - HTTP-RAND
+  - HTTP-SOCKET
+  - CLOUDFLARE
+  - UAM-BYPASS
+  - SLOW
+- New method will be updated soon...
 ### Installation
 - Installation for Windows
 - Install Python, Nodejs, Golang
@@ -60,12 +76,6 @@
   $ cd kylebot
   $ python bot.py
   ```
-
-<h1>About bot</h1>
-<p><li>Author: Kyle Tran</li></p>
-<p><li>Version: 1.2</li></p>
-<p><li>Language: Python, NodeJS, Golang</li></p>
-<p><li>License: GNU General Public License v3.0</li></p>
 <h1>Preview</h1>
 <p align="center"><img src="preview.png" alt="Preview"></p>
 <h1>Contact</h1>
