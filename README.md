@@ -1,4 +1,5 @@
 # Kylebot | Discord ddos bot v1.2 | Kyle Tran
+<center><img src="auth.png" alt="Kyle Network"></center>
 # Install For Windows
 <p><i>Install Python</i></p>
 <p>Download Link: https://www.python.org/downloads/</p>
@@ -28,12 +29,10 @@ npm i cluster
 npm i cloudflare-bypasser
 ````
 # About bot
-<ul>
 <p><i>Author: Kyle Tran</i></p>
 <p><i>Version: 1.2</i></p>
 <p><i>Language: Python, NodeJS, Golang</i></p>
 <p><i>License: GNU General Public License v3.0</i></p>
-</ul>
 # Preview
 <img src="preview.png" alt="">
 # Contact
