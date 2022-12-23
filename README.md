@@ -9,7 +9,7 @@
 </p><i>Install Golang</i></p>
 <p>Download Link: https://go.dev/dl/</p>
 <p><i>Install For Linux</i><p>
-```
+````
 apt-get install golang -y
 apt-get install python3 -y
 apt-get install python2 -y
@@ -28,7 +28,7 @@ npm i hcaptcha-solver
 npm i randomstring
 npm i cluster
 npm i cloudflare-bypasser
-```
+````
 <h1>About bot</h1>
 <p><i>Author: Kyle Tran</i></p>
 <p><i>Version: 1.2</i></p>
