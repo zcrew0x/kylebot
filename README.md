@@ -84,4 +84,5 @@
 <p><li>Discord: KyleTran#0206</li></p>
 <p><li>Telegram: @kyletran1901</li></p>
 <p><li>Discord server: https://discord.gg/wrFgrU92nb</li></p>
-
+<h1>Thanks for using</h1>
+<p><li>Please press star and fork if you find it interesting</li></p>
