@@ -1,6 +1,6 @@
 <h1>Kylebot</h1>
 <h2>Discord ddos bot v1.2 | Kyle Tran</h2>
-<h1>Install For Windows<h1>
+<p><i>Install For Windows</i><p>
 
 <p><i>Install Python</i></p>
 <p>Download Link: https://www.python.org/downloads/</p>
@@ -8,8 +8,7 @@
 <p>Download Link: https://nodejs.org/en/download/</p>
 </p><i>Install Golang</i></p>
 <p>Download Link: https://go.dev/dl/</p>
-<p>Install For Linux<p>
-<p><i>Command:</i></p>
+<p><i>Install For Linux</i><p>
 ```
 apt-get install golang -y
 apt-get install python3 -y
