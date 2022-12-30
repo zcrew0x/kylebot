@@ -27,7 +27,10 @@ methods = ['HTTP-FLOOD', 'HTTP-RAW', 'HTTP-RAND', 'HTTP-SOCKET','CLOUDFLARE','UA
 year_now= datetime.datetime.now().strftime("%Y")     
 token   = '' # paste your token here
 intents = discord.Intents.default()
-intents.members = True         
+intents.members = True 
+intents.message_content = True
+intents.messages = True
+intents.dm_messages = True       
 bot     = commands.Bot(command_prefix='.', intents=intents)
 bot.remove_command("help")    
 #=====Random Color=====#
