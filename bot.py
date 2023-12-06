@@ -20,12 +20,12 @@ from os import name
 from colorama import *                                                
 import random, datetime, discord                        
 #=====User && Methods Setting=====#
-buyers  = [920122047311540294]  #          
-admins  = [920122047311540294]  #   ID users            
-owners  = [920122047311540294]  #          
+buyers  = [1182101098207649832]  #          
+admins  = [1182101098207649832]  #   ID users            
+owners  = [1182101098207649832]  #          
 methods = ['HTTP-FLOOD', 'HTTP-RAW', 'HTTP-RAND', 'HTTP-SOCKET','CLOUDFLARE','UAM-BYPASS','SLOW'] # Methods
 year_now= datetime.datetime.now().strftime("%Y")     
-token   = '' # paste your token here
+token   = 'MTE4MjEwMTA5ODIwNzY0OTgzMg.GjY1-T.pVMTUXtr5adJQq_sfw-SW5KBdDuGMDI3RTPTtU' # paste your token here
 intents = discord.Intents.default()
 intents.members = True 
 intents.message_content = True
