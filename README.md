@@ -80,9 +80,8 @@
 <p align="center"><img src="preview.png" alt="Preview"></p>
 <p align="center"><img src="preview2.png" alt="Preview"></p>
 <h1>Contact</h1>
-<p><li>Email: contact@tranbaokha.com</li></p>
-<p><li>Discord: KyleTran#0206</li></p>
-<p><li>Telegram: @kyletran1901</li></p>
-<p><li>Discord server: https://discord.gg/wrFgrU92nb</li></p>
+<p><li>Email: info@xwcapital.net</li></p>
+<p><li>Discord: zcrew0x/li></p>
+<p><li>Telegram: @zurixw</li></p>
 <h1>Thanks for using</h1>
 <p><li>Please press star and fork if you find it interesting</li></p>
